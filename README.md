@@ -1,12 +1,12 @@
-# Black Hawks Scouting
+# Raptor 1711 Scouting
 
 ## Overview
 
-Black Hawks Scouting is an advanced, web-based, and open source scouting app made by FRC Team 2834 (The Bionic Black Hawks).
+Raptor 1711 Scouting is based off the amazing work of Black Hawks Scouting is an advanced, web-based, and open source scouting app made by FRC Team 2834 (The Bionic Black Hawks).
 
 Powered by [Vue.js](https://vuejs.org) and [The Blue Alliance](https://thebluealliance.com).
 
-[Live Demo](https://frc2834.github.io/blackhawks-scouting/#/) | [Introductory Videos](https://www.youtube.com/playlist?list=PLBRtye3iMZkFWZWo_e2GbrHIJkexl5A20) (More coming soon)
+[Live Demo - Raptor](https://frc1711.github.io/blackhawks-scouting/#/) | [Introductory Videos](https://www.youtube.com/playlist?list=PLBRtye3iMZkFWZWo_e2GbrHIJkexl5A20) (More coming soon)
 
 ## Features
 
